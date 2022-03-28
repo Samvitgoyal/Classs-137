@@ -1,0 +1,29 @@
+body{
+    background-size: cover;
+}
+.heading{
+    font-size:30px;
+    width:100%;
+    margin:0px;
+    }
+    #start,#number_of_objects,#status{
+        font-size:25px;
+
+    }
+    .copyrightfooter{
+        position:fixed;
+        color:white;
+        bottom:0;
+        width:100%;
+        background-color: black;
+        text-align:CENTER;
+        height:30PX;
+        font-size: 25px;
+
+    }
+    canvas{
+        border:5px solid blue;
+        border-radius: 10px;
+        margin-top:120px;
+        box-shadow:5px 5px 5px white;
+    }
